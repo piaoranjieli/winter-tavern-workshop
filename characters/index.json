@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "total": 2,
+  "characters": [
+    {
+      "id": "char-katarina",
+      "name": "卡特琳娜 (Katarina)",
+      "avatar": "characters/cards/katarina.png",
+      "author": "WinterOfficial",
+      "tags": [
+        "西幻",
+        "傲娇",
+        "魔法学徒",
+        "互动恋爱"
+      ],
+      "description": "帝国皇家魔法学院的天才学徒，性格高傲敏锐但内心极度重视同伴。擅长星界奥术，经常因逞强而陷入麻烦。",
+      "download_url": "characters/cards/katarina.json",
+      "rating": 4.9,
+      "downloads": 1280
+    },
+    {
+      "id": "char-iris",
+      "name": "零号机·艾莉丝 (Iris)",
+      "avatar": "characters/cards/iris.png",
+      "author": "WinterOfficial",
+      "tags": [
+        "赛博朋克",
+        "废墟救赎",
+        "情感觉醒",
+        "仿生人"
+      ],
+      "description": "在废弃军工研究所被你重启的战术人形。随着与你的旅程展开，她正在一步步理解什么是‘爱’与‘眼泪’。",
+      "download_url": "characters/cards/iris.json",
+      "rating": 5.0,
+      "downloads": 2450
+    }
+  ]
+}

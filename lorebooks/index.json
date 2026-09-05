@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "total": 2,
+  "lorebooks": [
+    {
+      "id": "lore-fantasy-magic",
+      "name": "西幻通用魔法阶位与世界法则",
+      "author": "WinterOfficial",
+      "entries_count": 12,
+      "description": "包含通用一到九阶法术评定、魔力反噬、星界投影与古代符文体系，完美契合魔幻背景卡片。",
+      "download_url": "lorebooks/books/fantasy_magic.json",
+      "tags": [
+        "魔法",
+        "法术等级",
+        "世界观设定"
+      ]
+    },
+    {
+      "id": "lore-cyberpunk-rules",
+      "name": "赛博朋克企业条例与神经义体设定",
+      "author": "WinterOfficial",
+      "entries_count": 15,
+      "description": "收录五大巨型垄断企业、赛博精神病判定阈值、黑客深网潜入协议与军规义体品级。",
+      "download_url": "lorebooks/books/cyberpunk_rules.json",
+      "tags": [
+        "赛博朋克",
+        "义体",
+        "黑客",
+        "企业"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "name": "WinterTavern 社区创意工坊",
+  "description": "WinterTavern 官方与社区资源生态中心，涵盖原生 MOD、精品角色卡、世界书与叙事预设。",
+  "author": "WinterTavern Community",
+  "repository": "https://github.com/piaoranjieli/winter-tavern-workshop",
+  "mirrors": [
+    "https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/",
+    "https://cdn.jsdelivr.net/gh/piaoranjieli/winter-tavern-workshop@main/",
+    "https://ghproxy.net/https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/"
+  ],
+  "sections": {
+    "mods": {
+      "name": "MOD 插件工坊",
+      "icon": "Extension",
+      "count": 5,
+      "index_url": "mods/index.json"
+    },
+    "characters": {
+      "name": "角色卡工坊",
+      "icon": "Face",
+      "count": 2,
+      "index_url": "characters/index.json"
+    },
+    "lorebooks": {
+      "name": "世界书工坊",
+      "icon": "MenuBook",
+      "count": 2,
+      "index_url": "lorebooks/index.json"
+    },
+    "presets": {
+      "name": "叙事预设工坊",
+      "icon": "Tune",
+      "count": 2,
+      "index_url": "presets/index.json"
+    }
+  }
+}

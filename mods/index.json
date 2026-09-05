@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "total": 5,
+  "mods": [
+    {
+      "id": "mod-01-token-budget",
+      "name": "Token 预算看板与防遗忘 HUD",
+      "version": "1.0.0",
+      "author": "WinterTeam",
+      "category": "上下文管理",
+      "icon": "Memory",
+      "size": "15 KB",
+      "description": "在聊天会话顶部或动作栏常驻微型 HUD 芯片，实时展示模型当前上下文消耗、安全水位健康条与世界书命中状态，点击展开可视化 Token 预算详情与防遗忘检测报告。",
+      "package_url": "mods/mod-01-token-budget/manifest.json",
+      "required_app_version": "2.6.0",
+      "tags": [
+        "Token",
+        "HUD",
+        "世界书监控",
+        "防遗忘"
+      ]
+    },
+    {
+      "id": "mod-02-attribute-tracker",
+      "name": "动态变量与好感度状态机",
+      "version": "1.0.0",
+      "author": "WinterTeam",
+      "category": "RPG数值系统",
+      "icon": "SportsEsports",
+      "size": "22 KB",
+      "description": "聊天界面悬浮/折叠式 RPG 状态条（好感度、生命值、金钱、衣着、当前场景）。自动解析模型返回的增量标签并实时动效更新，支持玩家手动调控数值。",
+      "package_url": "mods/mod-02-attribute-tracker/manifest.json",
+      "required_app_version": "2.6.0",
+      "tags": [
+        "好感度",
+        "状态机",
+        "RPG",
+        "Galgame"
+      ]
+    },
+    {
+      "id": "mod-03-regex-filter",
+      "name": "正则流式净化与排版大师",
+      "version": "1.0.0",
+      "author": "WinterTeam",
+      "category": "文本排版",
+      "icon": "Code",
+      "size": "12 KB",
+      "description": "强大的文本流式后处理插件。一键剔除大模型生成的冗余思维链思考标签（<think>、<cot>等），自动将角色的心声渲染为半透明灰字气泡，动作描写高亮美化。",
+      "package_url": "mods/mod-03-regex-filter/manifest.json",
+      "required_app_version": "2.6.0",
+      "tags": [
+        "正则",
+        "去噪",
+        "思维链净化",
+        "排版"
+      ]
+    },
+    {
+      "id": "mod-04-expressions",
+      "name": "角色表情立绘差分联动引擎",
+      "version": "1.0.0",
+      "author": "WinterTeam",
+      "category": "视觉表现",
+      "icon": "InsertEmoticon",
+      "size": "28 KB",
+      "description": "让角色立绘随剧情活起来！支持绑定多张表情立绘（开心、害羞、生气、悲伤、得意），通过情感分类与动作词识别，无缝平滑淡入淡出切换头像或立绘差分。",
+      "package_url": "mods/mod-04-expressions/manifest.json",
+      "required_app_version": "2.6.0",
+      "tags": [
+        "立绘",
+        "表情差分",
+        "视觉",
+        "二次元"
+      ]
+    },
+    {
+      "id": "mod-05-ambient-bgm",
+      "name": "沉浸式场景白噪音与氛围音",
+      "version": "1.0.0",
+      "author": "WinterTeam",
+      "category": "听觉氛围",
+      "icon": "Headphones",
+      "size": "35 KB",
+      "description": "为聊天提供高品质的场景环境音效（雨夜淅淅沥沥、复古酒馆壁炉柴火、咖啡馆轻语、森林夏夜）。随会话场景自适应循环播放，深夜独处沉浸感拉满。",
+      "package_url": "mods/mod-05-ambient-bgm/manifest.json",
+      "required_app_version": "2.6.0",
+      "tags": [
+        "BGM",
+        "白噪音",
+        "环境音",
+        "助眠"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mod-03-regex-filter",
+  "name": "正则流式净化与排版大师",
+  "version": "1.0.0",
+  "entry_class": "com.github.wintertavern.mods.regex.RegexFilterMod",
+  "permissions": [
+    "STREAMING_TEXT_TRANSFORM"
+  ]
+}

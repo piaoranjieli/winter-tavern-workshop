@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "total": 2,
+  "presets": [
+    {
+      "id": "preset-galgame-romance",
+      "name": "Galgame 沉浸式恋爱与细腻心流预设",
+      "author": "WinterOfficial",
+      "description": "深度强化角色的神态动作、微表情与心理独白描写，杜绝机械式客套话，让角色拥有栩栩如生的小脾气与恋爱温度。",
+      "download_url": "presets/files/galgame_romance.json",
+      "tags": [
+        "恋爱",
+        "Galgame",
+        "心理描写",
+        "情绪起伏"
+      ]
+    },
+    {
+      "id": "preset-hardcore-trpg",
+      "name": "硬核 TRPG 真实跑团叙事与环境判定预设",
+      "author": "WinterOfficial",
+      "description": "将模型化身为兼具沉浸感与严苛判定机制的地下城主（DM）。不偏袒玩家，包含环境互动、受伤机制与真实的物理反馈。",
+      "download_url": "presets/files/hardcore_trpg.json",
+      "tags": [
+        "TRPG",
+        "跑团",
+        "地下城主",
+        "真实残酷"
+      ]
+    }
+  ]
+}

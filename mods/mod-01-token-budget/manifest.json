@@ -1,0 +1,10 @@
+{
+  "id": "mod-01-token-budget",
+  "name": "Token 预算看板与防遗忘 HUD",
+  "version": "1.0.0",
+  "entry_class": "com.github.wintertavern.mods.tokenbudget.TokenBudgetMod",
+  "permissions": [
+    "CHAT_PROMPT_INSPECTION",
+    "UI_INSPECTION_SHEET"
+  ]
+}

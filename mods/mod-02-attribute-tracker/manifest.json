@@ -1,0 +1,10 @@
+{
+  "id": "mod-02-attribute-tracker",
+  "name": "动态变量与好感度状态机",
+  "version": "1.0.0",
+  "entry_class": "com.github.wintertavern.mods.attributes.AttributeTrackerMod",
+  "permissions": [
+    "CHAT_RESPONSE_INTERCEPT",
+    "UI_FLOATING_STATUS_BAR"
+  ]
+}
