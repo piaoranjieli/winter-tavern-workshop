@@ -1,0 +1,6 @@
+{
+  "id": "mod-03-scene-pulse",
+  "name": "场景脉冲与情感张力感知",
+  "version": "1.0.0",
+  "entry_class": "me.rerere.rikkahub.data.mod.builtin.ScenePulseMod"
+}

@@ -3,30 +3,34 @@
   "total": 2,
   "presets": [
     {
-      "id": "preset-galgame-romance",
-      "name": "Galgame 沉浸式恋爱与细腻心流预设",
-      "author": "WinterOfficial",
-      "description": "深度强化角色的神态动作、微表情与心理独白描写，杜绝机械式客套话，让角色拥有栩栩如生的小脾气与恋爱温度。",
-      "download_url": "presets/files/galgame_romance.json",
+      "id": "preset-foxgod-v19",
+      "name": "[主预设] V19.3 狐神抚 · 毓忻",
+      "file_name": "[主预设] V19.3 狐神抚 · 毓忻.json",
+      "author": "社区大神",
+      "size": "5.3 MB",
       "tags": [
-        "恋爱",
-        "Galgame",
-        "心理描写",
-        "情绪起伏"
-      ]
+        "破限神级预设",
+        "情感心流",
+        "深度细腻描写",
+        "超大容量"
+      ],
+      "description": "酒馆社区享誉极高的巅峰级叙事预设！包含完整的破限指令、多维心理描写、感官动作链与抗遗忘框架。",
+      "download_url": "presets/files/%5B%E4%B8%BB%E9%A2%84%E8%AE%BE%5D%20V19.3%20%E7%8B%90%E7%A5%9E%E6%8A%9A%20%C2%B7%20%E6%AF%93%E5%BF%BB.json"
     },
     {
-      "id": "preset-hardcore-trpg",
-      "name": "硬核 TRPG 真实跑团叙事与环境判定预设",
-      "author": "WinterOfficial",
-      "description": "将模型化身为兼具沉浸感与严苛判定机制的地下城主（DM）。不偏袒玩家，包含环境互动、受伤机制与真实的物理反馈。",
-      "download_url": "presets/files/hardcore_trpg.json",
+      "id": "preset-in-paralis",
+      "name": "[西幻卡的预设] Preset IN.Paralis V2.1.0",
+      "file_name": "[西幻卡的预设]PresetIN.Paralis.V2.1.0.json",
+      "author": "社区创作者",
+      "size": "215 KB",
       "tags": [
-        "TRPG",
-        "跑团",
-        "地下城主",
-        "真实残酷"
-      ]
+        "西幻跑团",
+        "史诗感",
+        "战斗判定",
+        "法术逻辑"
+      ],
+      "description": "专为《IN.Paralis》西幻史诗卡量身定制的专属预设，强化战斗判定、咒文吟唱与严肃文学沉浸感。",
+      "download_url": "presets/files/%5B%E8%A5%BF%E5%B9%BB%E5%8D%A1%E7%9A%84%E9%A2%84%E8%AE%BE%5DPresetIN.Paralis.V2.1.0.json"
     }
   ]
 }

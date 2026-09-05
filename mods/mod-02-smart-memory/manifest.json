@@ -1,0 +1,6 @@
+{
+  "id": "mod-02-smart-memory",
+  "name": "智能记忆引擎与遗忘曲线",
+  "version": "1.0.0",
+  "entry_class": "me.rerere.rikkahub.data.mod.builtin.SmartMemoryMod"
+}

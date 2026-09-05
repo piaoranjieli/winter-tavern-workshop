@@ -5,13 +5,13 @@
   "author": "WinterTavern Community",
   "repository": "https://github.com/piaoranjieli/winter-tavern-workshop",
   "mirrors": [
-    "https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/",
     "https://cdn.jsdelivr.net/gh/piaoranjieli/winter-tavern-workshop@main/",
-    "https://ghproxy.net/https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/"
+    "https://ghproxy.net/https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/",
+    "https://raw.githubusercontent.com/piaoranjieli/winter-tavern-workshop/main/"
   ],
   "sections": {
     "mods": {
-      "name": "MOD 插件工坊",
+      "name": "MOD 模组工坊",
       "icon": "Extension",
       "count": 5,
       "index_url": "mods/index.json"
@@ -19,13 +19,13 @@
     "characters": {
       "name": "角色卡工坊",
       "icon": "Face",
-      "count": 2,
+      "count": 8,
       "index_url": "characters/index.json"
     },
     "lorebooks": {
       "name": "世界书工坊",
       "icon": "MenuBook",
-      "count": 2,
+      "count": 5,
       "index_url": "lorebooks/index.json"
     },
     "presets": {

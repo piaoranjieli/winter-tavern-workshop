@@ -1,38 +1,134 @@
 {
   "version": "1.0.0",
-  "total": 2,
+  "total": 8,
   "characters": [
     {
-      "id": "char-katarina",
-      "name": "卡特琳娜 (Katarina)",
-      "avatar": "characters/cards/katarina.png",
-      "author": "WinterOfficial",
+      "id": "char-doupocangqiong",
+      "name": "斗破苍穹之九转成尊 (小说同人)",
+      "file_name": "[小说同人]斗破苍穹之九转成尊.png",
+      "author": "社区创作者",
       "tags": [
-        "西幻",
-        "傲娇",
-        "魔法学徒",
-        "互动恋爱"
+        "玄幻",
+        "同人",
+        "斗破",
+        "修仙"
       ],
-      "description": "帝国皇家魔法学院的天才学徒，性格高傲敏锐但内心极度重视同伴。擅长星界奥术，经常因逞强而陷入麻烦。",
-      "download_url": "characters/cards/katarina.json",
+      "description": "以《斗破苍穹》为背景的经典玄幻同人角色卡，包含完整的境界体系、异火设定与专属剧情分支。",
       "rating": 4.9,
-      "downloads": 1280
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%5B%E5%B0%8F%E8%AF%B4%E5%90%8C%E4%BA%BA%5D%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E4%B9%8B%E4%B9%9D%E8%BD%AC%E6%88%90%E5%B0%8A.png"
     },
     {
-      "id": "char-iris",
-      "name": "零号机·艾莉丝 (Iris)",
-      "avatar": "characters/cards/iris.png",
-      "author": "WinterOfficial",
+      "id": "char-in-paralis",
+      "name": "IN.Paralis.V210 (西幻史诗)",
+      "file_name": "[西幻]IN.Paralis.V210.png",
+      "author": "社区创作者",
+      "tags": [
+        "西幻",
+        "史诗",
+        "魔法",
+        "冒险"
+      ],
+      "description": "高精度西幻跑团与史诗剧情卡，搭配独立世界观与庞大法术分支，沉浸感极强。",
+      "rating": 5.0,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%5B%E8%A5%BF%E5%B9%BB%5DIN.Paralis.V210.png"
+    },
+    {
+      "id": "char-mangquetunlong",
+      "name": "蟒雀吞龙 第二版 (雾柳原创·古风权力)",
+      "file_name": "[雾柳原创] [古风权力]蟒雀吞龙 [第二版].png",
+      "author": "雾柳",
+      "tags": [
+        "古风",
+        "权谋",
+        "朝堂",
+        "权斗"
+      ],
+      "description": "雾柳老师经典权谋大作。朝堂暗涌、夺嫡争锋、九五之尊，步步惊心的古代权力博弈体验。",
+      "rating": 4.9,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%5B%E9%9B%BE%E6%9F%B3%E5%8E%9F%E5%88%9B%5D%20%5B%E5%8F%A4%E9%A3%8E%E6%9D%83%E5%8A%9B%5D%E8%9F%92%E9%9B%80%E5%90%9E%E9%BE%99%20%5B%E7%AC%AC%E4%BA%8C%E7%89%88%5D.png"
+    },
+    {
+      "id": "char-zhongnianrensheng",
+      "name": "中年人生 (雾柳原创·都市言情)",
+      "file_name": "[雾柳原创] [都市言情]中年人生.png",
+      "author": "雾柳",
+      "tags": [
+        "都市",
+        "现实",
+        "生活流",
+        "言情"
+      ],
+      "description": "细腻而真实的都市现实主义题材，描写中年人的家庭、职场、责任与情感暗涌。",
+      "rating": 4.8,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%5B%E9%9B%BE%E6%9F%B3%E5%8E%9F%E5%88%9B%5D%20%5B%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85%5D%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%94%9F.png"
+    },
+    {
+      "id": "char-sangshimori",
+      "name": "丧尸末日 最终版",
+      "file_name": "丧尸末日(最终版).png",
+      "author": "社区创作者",
+      "tags": [
+        "末日",
+        "生存",
+        "丧尸",
+        "硬核"
+      ],
+      "description": "经典末日废土生存冒险，物资搜寻、庇护所建设、人性抉择与极端环境下的生存挣扎。",
+      "rating": 4.9,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%E4%B8%A7%E5%B0%B8%E6%9C%AB%E6%97%A5%28%E6%9C%80%E7%BB%88%E7%89%88%29.png"
+    },
+    {
+      "id": "char-yuelaomonitor",
+      "name": "月老模拟器",
+      "file_name": "月老模拟器.png",
+      "author": "社区创作者",
+      "tags": [
+        "模拟器",
+        "红线",
+        "姻缘",
+        "轻松搞笑"
+      ],
+      "description": "化身掌管人间姻缘的见习月老，为各路凡人牵红线、解情劫，趣味生动。",
+      "rating": 4.8,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%E6%9C%88%E8%80%81%E6%A8%A1%E6%8B%9F%E5%99%A8.png"
+    },
+    {
+      "id": "char-nekomashizuku",
+      "name": "猫羽雫 & 甘城猫猫 v3",
+      "file_name": "猫羽雫&甘城猫猫v3.png",
+      "author": "甘城なつき",
+      "tags": [
+        "二次元",
+        "Vtuber",
+        "猫娘",
+        "日常萌系"
+      ],
+      "description": "超人气猫猫猫羽雫！软萌可爱的口癖与生动的小动作，带你体验温馨治愈的日常相伴。",
+      "rating": 5.0,
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%E7%8C%AB%E7%BE%BD%E9%9B%AB%26%E7%94%98%E5%9F%8E%E7%8C%AB%E7%8C%ABv3.png"
+    },
+    {
+      "id": "char-blackorder",
+      "name": "黑色秩序：崛起 (男主版)",
+      "file_name": "黑色秩序：崛起 (男).png",
+      "author": "社区创作者",
       "tags": [
         "赛博朋克",
-        "废墟救赎",
-        "情感觉醒",
-        "仿生人"
+        "黑暗组织",
+        "冷酷",
+        "逆袭"
       ],
-      "description": "在废弃军工研究所被你重启的战术人形。随着与你的旅程展开，她正在一步步理解什么是‘爱’与‘眼泪’。",
-      "download_url": "characters/cards/iris.json",
+      "description": "超长篇宏大暗黑设定卡。地下黑道、跨国财阀、暗杀与秩序颠覆的硬汉史诗传奇。",
       "rating": 5.0,
-      "downloads": 2450
+      "format": "Tavern V2 PNG",
+      "download_url": "characters/cards/%E9%BB%91%E8%89%B2%E7%A7%A9%E5%BA%8F%EF%BC%9A%E5%B4%9B%E8%B5%B7%20%28%E7%94%B7%29.png"
     }
   ]
 }
