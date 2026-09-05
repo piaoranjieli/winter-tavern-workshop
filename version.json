@@ -1,11 +1,11 @@
 {
-  "version_code": 200,
-  "version_name": "2.8.0",
+  "version_code": 100300,
+  "version_name": "1.3.0",
   "release_date": "2026-09-05",
-  "title": "现代极简 Bento 架构、隆冬全局主题中枢与工坊生态升级",
-  "changelog": "1. 侧边抽屉全面重构为现代极简 Bento 便当盒架构（2x2 模块化磁贴与沉浸呼吸感）\n2. 隆冬大管家全面掌握全局主题配色、昼夜深浅模式、AMOLED纯黑与壁纸动态取色中枢\n3. 英语学习导师 MOD 纯净解耦，移入创意工坊支持按需自由安装与安全卸载\n4. 拔除所有残存表情包与遗留图标，100% 切换为极简矢量描边图标体系\n5. 上线 GitHub 云端版本自动检测与一键升级",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v2.8.0/WinterTavern-v2.8.0-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v2.8.0/WinterTavern-v2.8.0-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v2.8.0/WinterTavern-v2.8.0-universal.apk",
-  "apk_size": "101.9 MB"
+  "title": "WinterTavern v1.3.0 · 「幻境美学」极致主题、管家工坊中枢与云端自愈跃迁",
+  "changelog": "1. 彻底自立门户，开启 WinterTavern 1.0 专属独立品牌产品纪元\n2. 创意工坊上线「幻境美学」极致主题中枢 MOD，内置 12 套大师级预设画廊\n3. GPU 加速动态环境粒子（漫舞飘雪、流体极光、雨夜霓虹、终端扫描线）\n4. 隆冬大管家掌握工坊全生态自然语言调度与沉浸学堂联动\n5. 现代极简 Bento 抽屉架构与英语导师 MOD 双维工作台穿梭",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.3.0/WinterTavern-v1.3.0-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.3.0/WinterTavern-v1.3.0-arm64.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.3.0/WinterTavern-v1.3.0-universal.apk",
+  "apk_size": "115.2 MB"
 }
