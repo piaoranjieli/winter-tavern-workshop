@@ -1,11 +1,11 @@
 {
-  "version_code": 101101,
-  "version_name": "1.1.1",
+  "version_code": 101103,
+  "version_name": "1.1.3",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.1 · 极境大成：12 极境天幕与专属气泡收官、提供商快捷管理、使用文档全面升级与三级版本规范",
-  "changelog": "1. 幻境美学 12 极境天幕与专属气泡圆满收官（12 套独立 Canvas 物理粒子层与顶栏画廊入口）\n2. 提供商快捷管理菜单（方案 A）：三点操作菜单一键编辑配置、详细设置、启用/停用与防误触删除\n3. 使用文档手册全面升级：重构为 7 大板块与 22 篇图文教程，全量收录 12 极境、创意工坊模组、隆冬漫游调度、联网搜索与剧情账本\n4. 建立严谨三级版本号命名规范（小版本第3位、大版本第2位、超大型版本第1位）\n5. 特效默认开启支持随心启闭，暗色模式高对比度校准",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-universal.apk",
+  "title": "WinterTavern v1.1.3 · 视觉破晓：高清冷启动 Logo 启动屏与四时流转创意工坊模组互锁",
+  "changelog": "1. 彻底告别冷启动空白：全新高清酒馆 Logo 动效启动屏，深色冷启动窗口平滑过渡\n2. 四时流转岁时极境模组化：青阳、槐序、悲秋、隆冬 4 大主题入驻创意工坊「幻境美学」模组\n3. 画廊一键点亮：画廊内提供免跳转极速解锁通道，就地下载启用\n4. 主理人智能代装：隆冬自然语言切换四时主题自动代为安装启用模组\n5. 版本号规范递进至 1.1.3，文档中心同步升级",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-arm64.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-universal.apk",
   "apk_size": "115.5 MB"
 }
