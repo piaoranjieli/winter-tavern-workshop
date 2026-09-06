@@ -1,12 +1,12 @@
 {
-  "version_code": 101106,
-  "version_name": "1.1.6",
+  "version_code": 101107,
+  "version_name": "1.1.7",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.6 · 空灵原声重塑：彻底根除机械合成杂音与工坊声景扩展包上线 (方案 B)",
-  "changelog": "1. 彻底剔除旧版机械合成假噪音：移除 18 个数学伪声音，换用专业立体声自然实录，空气感与真实感大幅跃升\n2. 方案 B 工坊模组化按需下载：APP 默认轻量内置 2 轨核心声景（壁炉+暴雪），安装包瘦身近 6MB；其余 10 轨做成工坊声景扩展包，一键按需下载解压\n3. 等能量正余弦平滑无缝循环：彻底消除声轨循环接缝咔嗒断音，采用 OGG Vorbis 高保真声学压缩\n4. 版本号规范更新至 1.1.6",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-arm64.apk",
+  "title": "WinterTavern v1.1.7 · 极境体验雕琢：模组禁用严格互锁、分类位置记忆与一转一停雪花思考动效",
+  "changelog": "1. 极境画廊位置记忆：自动记住用户最后浏览的主题分类标签，再次打开即刻回到停留位置\n2. 主题模组禁用严格互锁：修复禁用主题 MOD 后聊天仍生效的问题，停用即刻解除并无缝回退至用户原生自定义/默认主题\n3. 提供商卡片精简：彻底移除无效 6 点拖动手柄，保留纯净 3 点操作菜单\n4. 一转一停雪花思考指示器：聊天界面 AI 思考状态升级为高清晰度六角冰魄雪花，呈现转动 60° 随后停顿的呼吸律动动效\n5. 版本号规范更新至 1.1.7",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-arm64.apk",
   "soundscape_expansion_zip": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/soundscape-expansion-v1.zip",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-universal.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-universal.apk",
   "apk_size": "115.3 MB"
 }
