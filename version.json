@@ -1,11 +1,11 @@
 {
-  "version_code": 100900,
-  "version_name": "1.0.9",
+  "version_code": 101101,
+  "version_name": "1.1.1",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.0.9 · 模组宇宙圆满交付、动态好感状态机与正则排版大师",
-  "changelog": "1. 【好感度状态机】实装：悬浮 RPG 状态胶囊，实时解析 [好感度: +5]、心情、地点与金钱，支持手动干预与自定义变量\n2. 【正则排版大师】实装：自动优雅剔除大模型 <think> 思维链，心声与动作描写排版美化，提供自定义正则沙盒测试\n3. 【场景脉冲与情感张力】升级：实时透视剧情张力（暗涌/激化/高潮）与心防演进阶段，动态引导高张力剧情对话\n4. 【智能记忆与遗忘曲线】升级：艾宾浩斯记忆健康留存曲线，清晰透视活跃长程锚点，根治长篇失忆\n5. 创意工坊全原生模组 100% 交付，消灭研发中占位，支持隆冬全生态自然语言调度",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.0.9/WinterTavern-v1.0.9-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.0.9/WinterTavern-v1.0.9-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.0.9/WinterTavern-v1.0.9-universal.apk",
-  "apk_size": "114.6 MB"
+  "title": "WinterTavern v1.1.1 · 极境大成：12 极境天幕与专属气泡收官、提供商快捷管理、使用文档全面升级与三级版本规范",
+  "changelog": "1. 幻境美学 12 极境天幕与专属气泡圆满收官（12 套独立 Canvas 物理粒子层与顶栏画廊入口）\n2. 提供商快捷管理菜单（方案 A）：三点操作菜单一键编辑配置、详细设置、启用/停用与防误触删除\n3. 使用文档手册全面升级：重构为 7 大板块与 22 篇图文教程，全量收录 12 极境、创意工坊模组、隆冬漫游调度、联网搜索与剧情账本\n4. 建立严谨三级版本号命名规范（小版本第3位、大版本第2位、超大型版本第1位）\n5. 特效默认开启支持随心启闭，暗色模式高对比度校准",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-arm64.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.1/WinterTavern-v1.1.1-universal.apk",
+  "apk_size": "115.5 MB"
 }
