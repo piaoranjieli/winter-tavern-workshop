@@ -1,11 +1,11 @@
 {
-  "version_code": 101104,
-  "version_name": "1.1.4",
+  "version_code": 101105,
+  "version_name": "1.1.5",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.4 · 极速稳固：彻底修复冷启动自适应图标闪退问题与崩溃自愈升级",
-  "changelog": "1. 彻底解决冷启动瞬时闪退：排除了 AdaptiveIconDrawable 引起的 Compose 资源解析异常\n2. 独立光栅化高清 Logo：采用专有 ic_tavern_logo 资产，全系统 100% 稳定秒开\n3. 全机型开屏动画兼容：优化 themes.xml (v31+) 动画引用，平滑过渡无白屏\n4. 跨版本崩溃状态自愈：升级 v1.1.4 自动重置旧版遗留崩溃循环，直达酒馆首页\n5. 版本号规范更新至 1.1.4",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-universal.apk",
+  "title": "WinterTavern v1.1.5 · 极境美学重塑：彻底根除暗色主题死黑问题与高通透毛玻璃气泡升级",
+  "changelog": "1. 彻底根治主题死黑痛点：全面重构 16 套极境氛围天幕色彩阶梯，青阳、槐序、悲秋、隆冬、落日熔金拥有专属鲜活天幕梯度\n2. 彻底剔除暴力压黑暗角：移除覆盖 45%~50% 纯黑 Vignette 抑制遮罩，环境光晕不透明度提升至 0.28~0.42，层次分明\n3. 高通透毛玻璃气泡拟态：气泡不透明度由 92%~95% 全面优化为 75%~80% 半透明质感，背后粒子与流光自然透射\n4. 版本号规范更新至 1.1.5",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-arm64.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-universal.apk",
   "apk_size": "115.5 MB"
 }
