@@ -1,11 +1,12 @@
 {
-  "version_code": 101105,
-  "version_name": "1.1.5",
+  "version_code": 101106,
+  "version_name": "1.1.6",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.5 · 极境美学重塑：彻底根除暗色主题死黑问题与高通透毛玻璃气泡升级",
-  "changelog": "1. 彻底根治主题死黑痛点：全面重构 16 套极境氛围天幕色彩阶梯，青阳、槐序、悲秋、隆冬、落日熔金拥有专属鲜活天幕梯度\n2. 彻底剔除暴力压黑暗角：移除覆盖 45%~50% 纯黑 Vignette 抑制遮罩，环境光晕不透明度提升至 0.28~0.42，层次分明\n3. 高通透毛玻璃气泡拟态：气泡不透明度由 92%~95% 全面优化为 75%~80% 半透明质感，背后粒子与流光自然透射\n4. 版本号规范更新至 1.1.5",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.5/WinterTavern-v1.1.5-universal.apk",
-  "apk_size": "115.5 MB"
+  "title": "WinterTavern v1.1.6 · 空灵原声重塑：彻底根除机械合成杂音与工坊声景扩展包上线 (方案 B)",
+  "changelog": "1. 彻底剔除旧版机械合成假噪音：移除 18 个数学伪声音，换用专业立体声自然实录，空气感与真实感大幅跃升\n2. 方案 B 工坊模组化按需下载：APP 默认轻量内置 2 轨核心声景（壁炉+暴雪），安装包瘦身近 6MB；其余 10 轨做成工坊声景扩展包，一键按需下载解压\n3. 等能量正余弦平滑无缝循环：彻底消除声轨循环接缝咔嗒断音，采用 OGG Vorbis 高保真声学压缩\n4. 版本号规范更新至 1.1.6",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-arm64.apk",
+  "soundscape_expansion_zip": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/soundscape-expansion-v1.zip",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/WinterTavern-v1.1.6-universal.apk",
+  "apk_size": "115.3 MB"
 }
