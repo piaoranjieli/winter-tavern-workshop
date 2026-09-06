@@ -1,0 +1,13 @@
+{
+  "id": "mod-08-ambient-soundscape",
+  "name": "「空灵声景」拟真白噪音与多轨混音器",
+  "version": "1.0.0",
+  "entry_class": "me.rerere.rikkahub.data.mod.builtin.AmbientSoundscapeMod",
+  "permissions": [
+    "AUDIO_PLAYBACK",
+    "BACKGROUND_MIXING",
+    "STEWARD_TOOL"
+  ],
+  "tracks_count": 18,
+  "presets_count": 5
+}

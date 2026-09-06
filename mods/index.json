@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "total": 7,
+  "total": 8,
   "mods": [
     {
       "id": "mod-01-token-budget",
@@ -128,6 +128,25 @@
         "精读名著",
         "生词卡",
         "错题集"
+      ]
+    },
+    {
+      "id": "mod-08-ambient-soundscape",
+      "name": "「空灵声景」拟真白噪音与多轨混音器",
+      "version": "1.0.0",
+      "author": "WinterTavern Acoustic Lab",
+      "category": "空间音频",
+      "icon": "Headphones",
+      "size": "6.5 MB",
+      "description": "冬日酒馆专属全景声景工作台：温暖壁炉干柴、极地暴风雪、赛博沥沥夜雨、怀表走字、Alpha/Theta脑波等 18 套拟真声景，支持多轨自由混音推杆、睡眠定时平滑淡出与隆冬大管家语音调度。",
+      "package_url": "mods/mod-08-ambient-soundscape/manifest.json",
+      "required_app_version": "1.0.0",
+      "tags": [
+        "白噪音",
+        "多轨混音",
+        "空间音频",
+        "睡眠定时",
+        "脑波心流"
       ]
     }
   ]
