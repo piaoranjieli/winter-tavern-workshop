@@ -1,11 +1,11 @@
 {
-  "version_code": 101103,
-  "version_name": "1.1.3",
+  "version_code": 101104,
+  "version_name": "1.1.4",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.3 · 视觉破晓：高清冷启动 Logo 启动屏与四时流转创意工坊模组互锁",
-  "changelog": "1. 彻底告别冷启动空白：全新高清酒馆 Logo 动效启动屏，深色冷启动窗口平滑过渡\n2. 四时流转岁时极境模组化：青阳、槐序、悲秋、隆冬 4 大主题入驻创意工坊「幻境美学」模组\n3. 画廊一键点亮：画廊内提供免跳转极速解锁通道，就地下载启用\n4. 主理人智能代装：隆冬自然语言切换四时主题自动代为安装启用模组\n5. 版本号规范递进至 1.1.3，文档中心同步升级",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-arm64.apk",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.3/WinterTavern-v1.1.3-universal.apk",
+  "title": "WinterTavern v1.1.4 · 极速稳固：彻底修复冷启动自适应图标闪退问题与崩溃自愈升级",
+  "changelog": "1. 彻底解决冷启动瞬时闪退：排除了 AdaptiveIconDrawable 引起的 Compose 资源解析异常\n2. 独立光栅化高清 Logo：采用专有 ic_tavern_logo 资产，全系统 100% 稳定秒开\n3. 全机型开屏动画兼容：优化 themes.xml (v31+) 动画引用，平滑过渡无白屏\n4. 跨版本崩溃状态自愈：升级 v1.1.4 自动重置旧版遗留崩溃循环，直达酒馆首页\n5. 版本号规范更新至 1.1.4",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-arm64.apk",
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.4/WinterTavern-v1.1.4-universal.apk",
   "apk_size": "115.5 MB"
 }
