@@ -1,12 +1,12 @@
 {
-  "version_code": 101107,
-  "version_name": "1.1.7",
+  "version_code": 101109,
+  "version_name": "1.1.9",
   "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.7 · 极境体验雕琢：模组禁用严格互锁、分类位置记忆与一转一停雪花思考动效",
-  "changelog": "1. 极境画廊位置记忆：自动记住用户最后浏览的主题分类标签，再次打开即刻回到停留位置\n2. 主题模组禁用严格互锁：修复禁用主题 MOD 后聊天仍生效的问题，停用即刻解除并无缝回退至用户原生自定义/默认主题\n3. 提供商卡片精简：彻底移除无效 6 点拖动手柄，保留纯净 3 点操作菜单\n4. 一转一停雪花思考指示器：聊天界面 AI 思考状态升级为高清晰度六角冰魄雪花，呈现转动 60° 随后停顿的呼吸律动动效\n5. 版本号规范更新至 1.1.7",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-arm64.apk",
+  "title": "WinterTavern v1.1.9 · 守炉人计划：隆冬离线守护伪人格、智能火种嗅探与新手入坑全方位引导",
+  "changelog": "1. 守炉人离线守护伪人格：无Key时100%全状态拟真在线接管，零配置沉浸温暖相伴\n2. 智能火种嗅探与自动装配：聊天框直接贴厂商URL与KEY，隆冬主动识别、写入配置、拉取模型并发送探针测通\n3. 冬日序章互动剧场与5大新手见习委托：点燃壁炉、雕刻名牌、叩开客房、灵动抉择、冬夜微醺，新手任务链闭环奖励\n4. RP对戏暗号演练与酒馆黑话解密：*动作*与“台词”规范、气泡编辑防抢话心法、破限词/温度/滑窗黑话解密、主理人急诊室全天候诊断\n5. 版本号规范递增至 1.1.9",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-arm64.apk",
   "soundscape_expansion_zip": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/soundscape-expansion-v1.zip",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.7/WinterTavern-v1.1.7-universal.apk",
-  "apk_size": "115.3 MB"
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-universal.apk",
+  "apk_size": "112.5 MB"
 }
