@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "total": 5,
+  "total": 7,
   "mods": [
     {
       "id": "mod-01-token-budget",
@@ -12,7 +12,7 @@
       "size": "15 KB",
       "description": "在聊天会话顶部或动作栏常驻微型 HUD 芯片，实时展示模型当前上下文消耗、安全水位健康条与世界书命中状态，点击展开可视化 Token 预算详情与防遗忘检测报告。",
       "package_url": "mods/mod-01-token-budget/manifest.json",
-      "required_app_version": "2.6.0",
+      "required_app_version": "1.0.0",
       "tags": [
         "Token",
         "HUD",
@@ -30,7 +30,7 @@
       "size": "18 KB",
       "description": "模拟大脑三层海马体遗忘曲线。在数百轮长篇对弈中自动提取剧情关键节点并动态强化记忆锚点，大幅降低模型遗忘核心设定的概率。",
       "package_url": "mods/mod-02-smart-memory/manifest.json",
-      "required_app_version": "2.6.0",
+      "required_app_version": "1.0.0",
       "tags": [
         "海马体记忆",
         "遗忘曲线",
@@ -48,7 +48,7 @@
       "size": "16 KB",
       "description": "实时侦测角色对话的情感温度与关系张力指数。在潜意识层动态引导 AI 输出更具情绪起伏、张力拉满的剧情反馈。",
       "package_url": "mods/mod-03-scene-pulse/manifest.json",
-      "required_app_version": "2.6.0",
+      "required_app_version": "1.0.0",
       "tags": [
         "心流脉冲",
         "张力识别",
@@ -66,7 +66,7 @@
       "size": "22 KB",
       "description": "聊天界面悬浮/折叠式 RPG 状态条（好感度、生命值、金钱、衣着、当前场景）。自动解析模型返回的增量标签并实时动效更新，支持玩家手动调控数值。",
       "package_url": "mods/mod-04-attribute-tracker/manifest.json",
-      "required_app_version": "2.6.0",
+      "required_app_version": "1.0.0",
       "tags": [
         "好感度",
         "状态机",
@@ -84,12 +84,50 @@
       "size": "12 KB",
       "description": "强大的文本流式后处理插件。一键剔除大模型生成的冗余思维链思考标签（<think>、<cot>等），自动将角色的心声渲染为半透明灰字气泡，动作描写高亮美化。",
       "package_url": "mods/mod-05-regex-filter/manifest.json",
-      "required_app_version": "2.6.0",
+      "required_app_version": "1.0.0",
       "tags": [
         "正则",
         "去噪",
         "思维链净化",
         "排版"
+      ]
+    },
+    {
+      "id": "mod-06-atmosphere-theme",
+      "name": "「幻境美学」极致主题中枢",
+      "version": "1.0.0",
+      "author": "WinterTavern Studio",
+      "category": "视觉美学",
+      "icon": "Palette",
+      "size": "45 KB",
+      "description": "为酒馆注入 12 套极简、极繁与绝美动态氛围主题（水墨禅纸、极客终端、赛博战术、羊皮卷轴、冬日飘雪、涌动极光、赛博雨夜等），自带独立全景天幕与三维环境粒子，支持隆冬大管家语音即时调度。",
+      "package_url": "mods/mod-06-atmosphere-theme/manifest.json",
+      "required_app_version": "1.0.0",
+      "tags": [
+        "主题",
+        "动态天幕",
+        "飘雪粒子",
+        "流体极光",
+        "隆冬调度"
+      ]
+    },
+    {
+      "id": "mod-07-smart-tutor",
+      "name": "英语学习导师 (Smart Tutor)",
+      "version": "1.0.0",
+      "author": "WinterTavern Lab",
+      "category": "英语私教",
+      "icon": "School",
+      "size": "32 KB",
+      "description": "专为英语突破定制的沉浸式工作台：三位名师矩阵（理查德/马库斯/克拉拉）、名著精读文库、Top 5000 核心词典、即时题卡互动与错题复习本。",
+      "package_url": "mods/mod-07-smart-tutor/manifest.json",
+      "required_app_version": "1.0.0",
+      "tags": [
+        "英语导师",
+        "双维工作台",
+        "精读名著",
+        "生词卡",
+        "错题集"
       ]
     }
   ]
