@@ -1,12 +1,12 @@
 {
-  "version_code": 101109,
-  "version_name": "1.1.9",
-  "release_date": "2026-09-06",
-  "title": "WinterTavern v1.1.9 · 守炉人计划：隆冬离线守护伪人格、智能火种嗅探与新手入坑全方位引导",
-  "changelog": "1. 守炉人离线守护伪人格：无Key时100%全状态拟真在线接管，零配置沉浸温暖相伴\n2. 智能火种嗅探与自动装配：聊天框直接贴厂商URL与KEY，隆冬主动识别、写入配置、拉取模型并发送探针测通\n3. 冬日序章互动剧场与5大新手见习委托：点燃壁炉、雕刻名牌、叩开客房、灵动抉择、冬夜微醺，新手任务链闭环奖励\n4. RP对戏暗号演练与酒馆黑话解密：*动作*与“台词”规范、气泡编辑防抢话心法、破限词/温度/滑窗黑话解密、主理人急诊室全天候诊断\n5. 版本号规范递增至 1.1.9",
-  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-universal.apk",
-  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-arm64.apk",
+  "version_code": 101110,
+  "version_name": "1.1.10",
+  "release_date": "2026-09-07",
+  "title": "人设持久固化与内置资产护航 · 隆冬人设永久存盘与角色卡彻底删除根治",
+  "changelog": "1. 彻底根治隆冬人设修改后保存失效回退默认的缺陷，打通 PreferencesStore 数据持久化链路\n2. 彻底根治主界面删除角色卡后被内置自动播种器无条件重新复活的缺陷，新增播种互锁与老用户防复活保护",
+  "universal_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.10/WinterTavern-v1.1.10-universal.apk",
+  "arm64_apk": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.10/WinterTavern-v1.1.10-arm64.apk",
   "soundscape_expansion_zip": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.6/soundscape-expansion-v1.zip",
-  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.9/WinterTavern-v1.1.9-universal.apk",
-  "apk_size": "112.5 MB"
+  "direct_download_url": "https://ghproxy.net/https://github.com/piaoranjieli/winter-tavern-workshop/releases/download/v1.1.10/WinterTavern-v1.1.10-universal.apk",
+  "apk_size": "102.1 MB"
 }
